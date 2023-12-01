@@ -1,6 +1,6 @@
 # Create Bookmark
 
-<img src='images/ScreenShot.png'>
+<img src='images/bookmark.png'>
 
 # References:
 

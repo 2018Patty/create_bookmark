@@ -46,6 +46,8 @@
               onkeypress="return search(event)"
             />
           </div>
+          <button class="btn btn-primary" onclick="searchClick()">Search</button>
+          
 
           <div class="mt-5">
             <h5 class="text-primary mb-3">Bookmark Websites</h5>
@@ -100,6 +102,11 @@
           var val = document.getElementById("search-field").value;
           window.open(searchUrl + val);
         }
+      }
+
+      function searchClick() {
+          var val = document.getElementById("search-field").value;
+          window.open(searchUrl + val);
       }
 
       window.onload = () => {
