@@ -1,6 +1,6 @@
 # Create Bookmark
 
-<img src='images/ScreenShot.png' width='300px' height='500px'>
+<img src='images/ScreenShot.png'>
 
 ![Reference](https://github.com/Jaredk3nt/homepage/tree/master)
 
