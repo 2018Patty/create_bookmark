@@ -2,6 +2,8 @@
 
 <img src='images/ScreenShot.png'>
 
-![Reference](https://github.com/Jaredk3nt/homepage/tree/master)
+# References:
 
-![Reference](https://www.geeksforgeeks.org/create-a-bookmark-landing-page-using-html-css-and-javascript/)
+1. https://github.com/Jaredk3nt/homepage/tree/master
+
+2. https://www.geeksforgeeks.org/create-a-bookmark-landing-page-using-html-css-and-javascript/
